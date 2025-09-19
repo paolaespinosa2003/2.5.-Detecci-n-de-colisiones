@@ -12,4 +12,4 @@ El objetivo es evitar que el personaje atraviese paredes o el piso, logrando int
 
 ## Conclusión
 La escena ahora contiene detección de colisiones funcional.  
-El personaje no atraviesa paredes ni piso, cumpliendo con los criterios de evaluación solicitados en la actividad.
+El personaje no atraviesa paredes ni piso.
